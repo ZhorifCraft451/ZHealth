@@ -1,0 +1,10 @@
+name: ZHeal
+main: ZhorifCraft451\ZHeal
+api: 3.0.0
+version: 1.0
+author: ZhorifCraft451
+
+command:
+  heal:
+    description: "Obatilah Dirimu"
+    permission: use.heal
